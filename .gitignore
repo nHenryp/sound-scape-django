@@ -1,4 +1,12 @@
 .env
+
+
+__pycache__/
+# Django migrations
+*/migrations/
 migrations
-.pyc
+# Python bytecode
+*.pyc
+
+# Python cache directories
 __pycache__/
